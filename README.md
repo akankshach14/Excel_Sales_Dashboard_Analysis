@@ -7,9 +7,8 @@ Microsoft Excel,
 Power Query
 
 # Dashboard:
-![Screenshot 2024-06-15 145718](https://github.com/akankshach14/Excel_Sales_Dashboard_Analysis/assets/157012487/9efc3733-1e7b-4309-8047-7ab0d58a9afc)
 
-
+![Screenshot 2024-06-15 152053](https://github.com/akankshach14/Excel_Sales_Dashboard_Analysis/assets/157012487/2f7d0855-747a-4afa-a1b9-d66e28477206)
 
 
 # Key steps in the Project:
