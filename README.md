@@ -6,6 +6,11 @@ This project aims to Analyse the historical shipping data to predict the sales d
 Microsoft Excel,
 Power Query
 
+# Dashboard:
+![Screenshot 2024-06-15 145718](https://github.com/akankshach14/Excel_Sales_Dashboard_Analysis/assets/157012487/9efc3733-1e7b-4309-8047-7ab0d58a9afc)
+
+
+
 
 # Key steps in the Project:
 
