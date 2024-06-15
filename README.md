@@ -2,7 +2,8 @@
 This project aims to Analyse the historical shipping data to predicts the sales demand for various items in different regions, forecast future trends and provide information for business growth.
 
 Dataset:
-Microsoft Excel
+Microsoft Excel,
+
 Power Query
 
 
