@@ -2,6 +2,10 @@
 This project aims to Analyse the historical shipping data to predict the sales demand for various items in different regions, forecast future trends, and provide information for business growth.
 
 # Dataset:
+By combining xlsm file, file has 13 columns and 10,00,000 rows.
+The data contains sales for the period 2010 to 2017.
+
+# Tools:
 
 Microsoft Excel,
 Power Query
